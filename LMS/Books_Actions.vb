@@ -1,4 +1,5 @@
 ﻿Imports MySql.Data.MySqlClient
+'Owner C3  https://github.com/SaanPrasanna
 Public Class Books_Actions
     Dim connection As New MySqlConnection("server=localhost;user=root;password=;database=lms;")
 
