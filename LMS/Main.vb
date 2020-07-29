@@ -1,4 +1,5 @@
 ﻿Public Class Main
+    'Owner C3  https://github.com/SaanPrasanna
     Dim myResizer As New Resizer
 
     Private Sub Main_Load(sender As Object, e As EventArgs) Handles MyBase.Load
